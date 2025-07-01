@@ -52,6 +52,10 @@ There are several main repositories (or folders/documents within repositories) t
 
 Game and App Development students usually create games and applications using Unity.  Unity works on both MacOS and Windows.  (I believe it also works on Linus, but do not quote me on that.)  Since MacOS does not have a Visual Studio version any more, you will need to use VS Code.  Which is another good reason to use VS Code.  Again, the computers in my room should be set up for this, or will be soon.  If you would like to set things up at home, you may certainly do so.  One thing that all students who use Unity will need to do is create an account with Unity.  You do not need to pay for anything, you just need to sign up.
 
+Students may not want to do the projects listed, but at least the list of projects can give students ideas on what they may want to create.
+
+* [Programming Projects](https://github.com/MichaelTMiyoshi/ProgrammingProjects)  This is the main repository where students refer back to for possible projects to complete.  Some of the projects are much harder than others.
+
 Game and App Development students also need to do what is called a competency evaluation.  The link for this document is below.
 
 * [Game and App Development Competency Evaluation Folder](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/tree/main/GameAndAppDev/Documents)
@@ -59,6 +63,12 @@ Game and App Development students also need to do what is called a competency ev
 #### AP Computer Science
 
 Advanced Placement (AP) Computer Science students will be writing their code using Java.  We have typically used IntelliJ, but students who wish to use VS Code may do so.  As of this writing, I have not tried Java coding on VS Code.
+
+The AP Computer Science students will also be doing projects.  Note that there are several projects that are required.  The Recursion goal sheet and Levenshtein are two projects from second semester.  You may do the projects in any order (including the stuff from second semester during first semester).  Just make sure that we keep track of that in the gradebook somehow.
+
+* [Programming Projects](https://github.com/MichaelTMiyoshi/ProgrammingProjects)  This is the main repository where students refer back to for possible projects to complete.  Some of the projects are much harder than others.  (And some are required.)
+* [APCS - Java with Miyoshi](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi)
+* [Goal sheets and other useful stuff](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/tree/master/Problems)
 
 #### Architectural and Engineering Design
 
