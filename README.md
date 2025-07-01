@@ -15,6 +15,14 @@ This page might not make sense right away, but it is a resource for students, so
 
 By the way, part of the reason I created this page at the top of my repository is because I have so much stuff in different repositories that I needed to clean things up.  I have rubrics and example documents that are out of date.  So instead of just getting rid of the clutter (which I hope to do eventually), I created this readme to help link you to the things you need.
 
+### Artificial Intelligence (AI)
+
+I need to give some thoughts on AI.
+
+Students can certainly use AI to learn.  But most have not been doing that.  Most have been using AI to write code for them.  Which is why I require my students to explain their code.  They cannot blithely go their way using AI to do their work for them.  At least not if they are going to be the ones who are actually writing AI code.  Which is also amazing.  I have had several students in the past few years write code that uses AI!  A racing game that actually beat users it was racing against was one of the greatest programs that I have seen recently.  I have also had several students work on what has become the AI entry level coding project, numeral recognition.  So I have no beef with AI.  I just want students to understand that using Copilot and ChatGPT to write their code for them is not helping them learn to write code.  Let alone good compute code.
+
+So use AI to help you learn.  Just do not use it to shortcut your learning process.  Or to just get a grade in a programming class.
+
 ### Leadership
 
 Leadership is an important part of Career and Technical Education (CTE) classes.  As such, there are certain leadership activities that we do in class.  The three that we do in class are described in the links below.  You can (and should) also go to the [Learning with Miyoshi](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi) repo to read about grading and such.
