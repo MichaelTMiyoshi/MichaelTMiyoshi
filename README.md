@@ -1,8 +1,8 @@
-## Michael T. Miyoshi
+# Michael T. Miyoshi
 
 I am not a professional software developer.  I am a high school teacher who teaches computer programming and engineering (CAD).  I do have development repositories, but most of my repositories have to do with the subjects I teach.  So if you are one of my students, you are in the right place.  I have (or will have) links to important information.  I have other notes at the bottom of this page for educators.
 
-### Students
+## Students
 
 This page might not make sense right away, but it is a resource for students, so I have arranged it in order of what students will most often need (in other words, what they ask me most about).  Here is a list with relative links.
 
@@ -15,7 +15,7 @@ This page might not make sense right away, but it is a resource for students, so
 
 By the way, part of the reason I created this page at the top of my repository is because I have so much stuff in different repositories that I needed to clean things up.  I have rubrics and example documents that are out of date.  So instead of just getting rid of the clutter (which I hope to do eventually), I created this readme to help link you to the things you need.
 
-#### Leadership
+### Leadership
 
 Leadership is an important part of Career and Technical Education (CTE) classes.  As such, there are certain leadership activities that we do in class.  The three that we do in class are described in the links below.  You can (and should) also go to the [Learning with Miyoshi](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi) repo to read about grading and such.
 
@@ -27,7 +27,7 @@ Leadership is an important part of Career and Technical Education (CTE) classes.
 
 I give a leadership sheet out to students on the first day.  This sheet is for documentation purposes.  I do not have a digital copy because I want students to be responsible for those sheets.  As part of that responsibility, they need to pay points to get a new sheet.  (I work with the students to help make sure this does not happen very often.)
 
-#### Visual Studio Code
+### Visual Studio Code
 
 I have used Visual Studio Community for years in my classroom.  When we went to most students using their student laptops, this became cumbersome.  After all, just to code and run C# programs required 8 GB of hard drive space and lots of time to install.  To help alleviate some of that space and time requirement, I decided (with the help of my friend and classroom volunteer, Mike) to bite the bullet and migrate to Visual Studio Code (VS Code).  VS Code installs quickly and it even has a great way to set things up so that all the students have the same setup.  If you are in my classroom, you should be set up already.  If not, you can downloade VS Code, then import the profile.  It is a simple process.  And best of all, it is light and quick.  Oh.  And it is free too.
 
@@ -38,7 +38,7 @@ If you are a Game and App Development student, follow the above directions if yo
 
 Note that Python is already set up with VS Code.  If you like VS Code as your Integrated Development Environment (IDE), then you can add other languages too (like Java).  I have not added Java to the student profile at this point in time.
 
-#### Introduction to Computer Programming
+### Introduction to Computer Programming
 
 There are several main repositories (or folders/documents within repositories) that intro students need to look be familiar with.  The Williams Game Engine is a repo that the students will not need to look at until they are ready for second semester material.  Note that I do not put limits on how fast students may go.  The slow limits are merely the end of semesters.  Students do need to do enough work (have a preponderance of evidence) to justify their grade.  There is something to note here (and in the C# with Miyoshi repository) that is important.  Students must incorporate code from 2 unique goal sheet problems in each project they turn in to me.  The unique part just means that students cannot just keep incorporating the same goal sheet problems in each project they complete.
 
@@ -48,7 +48,7 @@ There are several main repositories (or folders/documents within repositories) t
 * [Williams Game Engine]()  This is the next to last (penultimate) project you will do.  It is a graphic game using a rendering engine called SFML.
 * [Competency Tests](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/tree/main/CompetencyTests)  Note: Competency tests are writing code by hand.  You may redo competency tests for better grades, although you cannot take the same test more than once per day.  And you may not retake a cometency test on the day it is graded and explained to you.
 
-#### Game and App Development
+### Game and App Development
 
 Game and App Development students usually create games and applications using Unity.  Unity works on both MacOS and Windows.  (I believe it also works on Linus, but do not quote me on that.)  Since MacOS does not have a Visual Studio version any more, you will need to use VS Code.  Which is another good reason to use VS Code.  Again, the computers in my room should be set up for this, or will be soon.  If you would like to set things up at home, you may certainly do so.  One thing that all students who use Unity will need to do is create an account with Unity.  You do not need to pay for anything, you just need to sign up.
 
@@ -60,7 +60,7 @@ Game and App Development students also need to do what is called a competency ev
 
 * [Game and App Development Competency Evaluation Folder](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/tree/main/GameAndAppDev/Documents)
 
-#### AP Computer Science
+### AP Computer Science
 
 Advanced Placement (AP) Computer Science students will be writing their code using Java.  We have typically used IntelliJ, but students who wish to use VS Code may do so.  As of this writing, I have not tried Java coding on VS Code.
 
@@ -70,7 +70,7 @@ The AP Computer Science students will also be doing projects.  Note that there a
 * [APCS - Java with Miyoshi](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi)
 * [Goal sheets and other useful stuff](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/tree/master/Problems)
 
-#### Architectural and Engineering Design
+### Architectural and Engineering Design
 
 The biggest thing for Architectural and Engineering Design students are the rubric and example write-up documents.  The first semester of the Arch & Engr Des I class uses a different writeup.
 
