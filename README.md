@@ -23,12 +23,20 @@ Leadership is an important part of Career and Technical Education (CTE) classes.
 * [Geek Pamphlet](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/Leadership/GeekPamphlet-Leadership.md)  You are to develop a 3-fold brochure to tell people about what sort of career you might like to pursue.  The requirements are given on the page.  Also note that if you take my class multiple times, you need to create a new brochure/pamphlet each school year.  Also, note that there is a Word document that you can use for your 3-fold pamphlet.  [Three-fold brochure document](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/Leadership/ThreeFoldBrochure.docx)  You will need to download the document to use it.  (By the way, the brochure does not need to be created digitally.  I have had many students recently do a great job creating them manually.
 * [Inquiry and Thank You letters](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/Leadership/leadership_inq_letter.md)  This is a set of two letters.  You must write and send the inquiry letter.  To maximize your points, you need to send the letter out of state.  You may send it to somebody you know, but not to people in your immediate household (even if they are away).  (You will be more likely to get a response from somebody you know.)  You must write the thank you letter, but you do not need to send it until after somebody responds to you.
 * [Resume](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/Leadership/Rubric-Resume.md)  The resume activity is two-fold.  You must produce a resume and evaluate it based on the rubric.  Then, you must edit it according to your honest evaluation.  The first resume will give you 0.25 of the grade and the updated (assuming it is actually updated) will give you the rest of the points.
+* [Presentation Rubric](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/_CommonDocuments/Rubric-Presentation.md)  Everybody is supposed to give at least one evaluated presentation.  This is a link to the rubric for that presentation.  If you go up a level in the repository, you can see a downloadable word document of the rubric.
 
 I give a leadership sheet out to students on the first day.  This sheet is for documentation purposes.  I do not have a digital copy because I want students to be responsible for those sheets.  As part of that responsibility, they need to pay points to get a new sheet.  (I work with the students to help make sure this does not happen very often.)
 
 #### Visual Studio Code
 
+I have used Visual Studio Community for years in my classroom.  When we went to most students using their student laptops, this became cumbersome.  After all, just to code and run C# programs required 8 GB of hard drive space and lots of time to install.  To help alleviate some of that space and time requirement, I decided (with the help of my friend and classroom volunteer, Mike) to bite the bullet and migrate to Visual Studio Code (VS Code).  VS Code installs quickly and it even has a great way to set things up so that all the students have the same setup.  If you are in my classroom, you should be set up already.  If not, you can downloade VS Code, then import the profile.  It is a simple process.  And best of all, it is light and quick.  Oh.  And it is free too.
 
+* [Download VS Code](https://code.visualstudio.com/download)  Note: There are little buttons next to descriptive words.  If you would like to install VS Code for everybody on your computer, use the system installer (Windows) for your OS.  If you just want to install it for yourself on your own user profile, you can just hit the proper OS button.
+* Set up the VS Code [Profile](https://gist.github.com/MichaelTMiyoshi/98b5f40cd67b28152b80e2c80684f8dc)
+
+If you are a Game and App Development student, follow the above directions if you are using Unity.
+
+Note that Python is already set up with VS Code.  If you like VS Code as your Integrated Development Environment (IDE), then you can add other languages too (like Java).  I have not added Java to the student profile at this point in time.
 
 #### Introduction to Computer Programming
 
@@ -42,9 +50,27 @@ There are several main repositories (or folders/documents within repositories) t
 
 #### Game and App Development
 
+Game and App Development students usually create games and applications using Unity.  Unity works on both MacOS and Windows.  (I believe it also works on Linus, but do not quote me on that.)  Since MacOS does not have a Visual Studio version any more, you will need to use VS Code.  Which is another good reason to use VS Code.  Again, the computers in my room should be set up for this, or will be soon.  If you would like to set things up at home, you may certainly do so.  One thing that all students who use Unity will need to do is create an account with Unity.  You do not need to pay for anything, you just need to sign up.
+
+Game and App Development students also need to do what is called a competency evaluation.  The link for this document is below.
+
+* [Game and App Development Competency Evaluation Folder](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/tree/main/GameAndAppDev/Documents)
+
 #### AP Computer Science
 
+Advanced Placement (AP) Computer Science students will be writing their code using Java.  We have typically used IntelliJ, but students who wish to use VS Code may do so.  As of this writing, I have not tried Java coding on VS Code.
+
 #### Architectural and Engineering Design
+
+The biggest thing for Architectural and Engineering Design students are the rubric and example write-up documents.  The first semester of the Arch & Engr Des I class uses a different writeup.
+
+* [First semester write-up documents folder](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/tree/master/Projects/IntroDesignProject)
+* [Advanced Write-up rubric](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/_CommonDocuments/Rubric-AdvancedDesignDoc.md)
+* [Advanced Write-up folder](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/tree/main/_CommonDocuments)
+
+Advanced students also need to do what is called a competency evaluation.  The link for this document is below.
+
+* [Arch & Engr Des (advanced) Competency Evaluation Folder](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/tree/main/ArchAndEngrDes/Documents)
 
 #### More Notes
 
