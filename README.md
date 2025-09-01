@@ -15,6 +15,15 @@ This page might not make sense right away, but it is a resource for students, so
 
 By the way, part of the reason I created this page at the top of my repository is because I have so much stuff in different repositories that I needed to clean things up.  I have rubrics and example documents that are out of date.  So instead of just getting rid of the clutter (which I hope to do eventually), I created this readme to help link you to the things you need.
 
+### Syllabi
+
+Students, parents, and educators who are interested in what is happening in my classes can check out the syllabi for the different classes I teach.  The links are to the readable (from the web) files.  There are Microsoft Word files available for download as well.
+
+* [Introduction to Computer Programming](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/GameAndAppDev/ProgSyllabus.md)
+* [Game & App Development](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/GameAndAppDev/ProgSyllabus.md)
+* [AP Computer Science](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/AP_ComputerScience/APCSSyllabus.md)
+* [Architectural & Engineering Design (all levels)](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/ArchAndEngrDes/ENGRSyllabus.md)
+
 ### Artificial Intelligence (AI)
 
 I need to give some thoughts on AI.
