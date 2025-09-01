@@ -77,7 +77,7 @@ Students may not want to do the projects listed, but at least the list of projec
 
 Game and App Development students also need to do what is called a competency evaluation.  The link for this document is below.
 
-* [Game and App Development Competency Evaluation Folder](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/tree/main/GameAndAppDev/Documents)
+* [Game and App Development Competency Evaluation File](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/GameAndAppDev/CompetenciesReflection-GameAndAppDevelopment.docx)
 
 ### AP Computer Science
 
@@ -99,7 +99,7 @@ The biggest thing for Architectural and Engineering Design students are the rubr
 
 Advanced students also need to do what is called a competency evaluation.  The link for this document is below.
 
-* [Arch & Engr Des (advanced) Competency Evaluation Folder](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/tree/main/ArchAndEngrDes/Documents)
+* [Arch & Engr Des (advanced) Competency Reflection File](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/ArchAndEngrDes/CompetenciesReflection-ArchitecturalAndEngineeringDesign.docx)
 
 #### More Notes
 
