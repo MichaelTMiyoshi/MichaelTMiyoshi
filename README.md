@@ -19,9 +19,9 @@ By the way, part of the reason I created this page at the top of my repository i
 
 I need to give some thoughts on AI.
 
-Students can certainly use AI to learn.  But most have not been doing that.  Most have been using AI to write code for them.  Which is why I require my students to explain their code.  They cannot blithely go their way using AI to do their work for them.  At least not if they are going to be the ones who are actually writing AI code.  Which is also amazing.  I have had several students in the past few years write code that uses AI!  A racing game that actually beat users it was racing against was one of the greatest programs that I have seen recently.  I have also had several students work on what has become the AI entry level coding project, numeral recognition.  So I have no beef with AI.  I just want students to understand that using Copilot and ChatGPT to write their code for them is not helping them learn to write code.  Let alone good compute code.
+Students can certainly use AI to learn.  But most have not been doing that.  Most have been using AI to write code for them.  Which is why I require my students to explain their code (or they cannot get full credit).  They cannot blithely go their way using AI to do their work for them.  At least not if they are going to be the ones who are actually writing AI code.  Which is also amazing.  I have had several students in the past few years write code that uses AI!  A racing game that actually beat users it was racing against was one of the greatest programs that I have seen recently.  I have also had several students work on what has become the AI entry level coding project, numeral recognition.  So I have no beef with AI.  I just want students to understand that using Copilot and ChatGPT (or whatever else they are using) to write their code for them is not helping them learn to write code.  Let alone good computer code.
 
-So use AI to help you learn.  Just do not use it to shortcut your learning process.  Or to just get a grade in a programming class.
+So use AI to help you learn.  Just do not use it to shortcut your learning process.  Or to try to get a good grade in a programming class.
 
 ### Leadership
 
@@ -39,6 +39,8 @@ I give a leadership sheet out to students on the first day.  This sheet is for d
 
 I have used Visual Studio Community for years in my classroom.  When we went to most students using their student laptops, this became cumbersome.  After all, just to code and run C# programs required 8 GB of hard drive space and lots of time to install.  To help alleviate some of that space and time requirement, I decided (with the help of my friend and classroom volunteer, Mike) to bite the bullet and migrate to Visual Studio Code (VS Code).  VS Code installs quickly and it even has a great way to set things up so that all the students have the same setup.  If you are in my classroom, you should be set up already.  If not, you can downloade VS Code, then import the profile.  It is a simple process.  And best of all, it is light and quick.  Oh.  And it is free too.
 
+Note:  I have not quite made the jump to VS Code.  So I have both Visual Studio Community and Visual Studio Code set up in my classroom.  I will work to get better at VS Code, but at I will work with both until I am more comfortable.  Students can use either.  If I was starting out now, I would probably use VS Code.  It puts a lot less clutter on your hard drive.
+
 * [Download VS Code](https://code.visualstudio.com/download)  Note: There are little buttons next to descriptive words.  If you would like to install VS Code for everybody on your computer, use the system installer (Windows) for your OS.  If you just want to install it for yourself on your own user profile, you can just hit the proper OS button.
 * Set up the VS Code [Profile](https://gist.github.com/MichaelTMiyoshi/98b5f40cd67b28152b80e2c80684f8dc)
 
@@ -50,7 +52,7 @@ Note that Python is already set up with VS Code.  If you like VS Code as your In
 
 There are several main repositories (or folders/documents within repositories) that intro students need to look be familiar with.  The Williams Game Engine is a repo that the students will not need to look at until they are ready for second semester material.  Note that I do not put limits on how fast students may go.  The slow limits are merely the end of semesters.  Students do need to do enough work (have a preponderance of evidence) to justify their grade.  There is something to note here (and in the C# with Miyoshi repository) that is important.  Students must incorporate code from 2 unique goal sheet problems in each project they turn in to me.  The unique part just means that students cannot just keep incorporating the same goal sheet problems in each project they complete.
 
-* [Programming Projects](https://github.com/MichaelTMiyoshi/ProgrammingProjects)  This is the main repository where students refer back to for possible projects to complete.  Some of the projects are much harder than others.
+* [Programming Projects](https://github.com/MichaelTMiyoshi/ProgrammingProjects)  This is the main repository where students refer back to for possible projects to complete.  Some of the projects are much harder than others.  Note that AP Computer Science students have some required projects that they must do.  (See below.)
 * [C# with Miyoshi](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/tree/main)
 * [Goal sheet problems](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/tree/main/Problems)  These are great problems to help you develop your skills.
 * [Williams Game Engine]()  This is the next to last (penultimate) project you will do.  It is a graphic game using a rendering engine called SFML.
@@ -58,11 +60,11 @@ There are several main repositories (or folders/documents within repositories) t
 
 ### Game and App Development
 
-Game and App Development students usually create games and applications using Unity.  Unity works on both MacOS and Windows.  (I believe it also works on Linus, but do not quote me on that.)  Since MacOS does not have a Visual Studio version any more, you will need to use VS Code.  Which is another good reason to use VS Code.  Again, the computers in my room should be set up for this, or will be soon.  If you would like to set things up at home, you may certainly do so.  One thing that all students who use Unity will need to do is create an account with Unity.  You do not need to pay for anything, you just need to sign up.
+Game and App Development students usually create games and applications using Unity.  Unity works on both MacOS and Windows.  (I believe it also works on Linux, but do not quote me on that.)  Since MacOS does not have a Visual Studio Community version any more, you will need to use VS Code.  Which is another good reason to use VS Code.  Again, the computers in my room should be set up for this, or will be soon.  If you would like to set things up at home, you may certainly do so.  One thing that all students who use Unity will need to do is create an account with Unity.  You do not need to pay for anything, you just need to sign up.
 
 Students may not want to do the projects listed, but at least the list of projects can give students ideas on what they may want to create.
 
-* [Programming Projects](https://github.com/MichaelTMiyoshi/ProgrammingProjects)  This is the main repository where students refer back to for possible projects to complete.  Some of the projects are much harder than others.
+* [Programming Projects](https://github.com/MichaelTMiyoshi/ProgrammingProjects)  This is the main repository where students refer back to for possible projects to complete.  Some of the projects are much harder than others.  (Again, AP Computer Science students have some required projects.  See below.)
 
 Game and App Development students also need to do what is called a competency evaluation.  The link for this document is below.
 
@@ -80,7 +82,7 @@ The AP Computer Science students will also be doing projects.  Note that there a
 
 ### Architectural and Engineering Design
 
-The biggest thing for Architectural and Engineering Design students are the rubric and example write-up documents.  The first semester of the Arch & Engr Des I class uses a different writeup.
+The biggest thing for Architectural and Engineering Design students are the rubric and example write-up documents.  The first semester of the Arch & Engr Des I class uses a different writeup than any of the other write ups.
 
 * [First semester write-up documents folder](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/tree/master/Projects/IntroDesignProject)
 * [Advanced Write-up rubric](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/_CommonDocuments/Rubric-AdvancedDesignDoc.md)
